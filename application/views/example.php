@@ -15,6 +15,7 @@ body
 	font-family: Arial;
 	font-size: 14px;
 }
+
 a {
     color: blue;
     text-decoration: none;
